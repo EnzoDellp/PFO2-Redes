@@ -20,6 +20,8 @@ Este proyecto consiste en una API REST desarrollada con Flask que permite regist
 
 ```bash
 python -m pip install flask
+pip install requests
+
 ```
 
 # Objetivos del proyecto
