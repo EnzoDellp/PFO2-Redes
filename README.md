@@ -86,3 +86,10 @@ Porque almacenar contraseñas en texto plano es riesgoso. Al hashearlas, incluso
 - Los datos se guardan en un solo archivo .db.
 - Es muy fácil de usar y configurar.
 - Perfecto para prototipos o proyectos educativos como este.
+#Captturas de pantalla:
+## Tareas:
+<img src="img/tareas.png" width="500" alt="Página de bienvenida HTML">
+## Login:
+<img src="img/login.png" width="500" alt="Login">
+##Registro:
+<img src="img/registro.png" width="500" alt="Login">
