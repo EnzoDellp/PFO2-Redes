@@ -39,7 +39,7 @@ pip install requests
 - Flask
 
 ```bash
-git clone https://github.com/tuusuario/PFO2.git
+https://github.com/EnzoDellp/PFO2-Redes/tree/main
 cd PFO2
 ```
 En python servidor.py ejecutar:
